@@ -1,0 +1,1 @@
+memmove, strlcat, strnstr, calloc, strtrim, itoa, lstdelone, lstclear, lstiterm, lstmap
